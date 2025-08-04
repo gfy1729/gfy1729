@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💬 I’m gfy1729, nice to meet you.
-- 🔭 I’m currently working on [Generals.OI](github.com/Generals-OI/Generals.OI).
-- 👀 I’m looking for collaborate on [Generals.OI](github.com/Generals-OI/Generals.OI).
+- 🔭 I’m currently working on nothing.
+- 👀 I’m looking for collaborate on something.
 
 ![](https://skillicons.dev/icons?i=c,cpp,cmake,qt,md,latex,github,git)
 
