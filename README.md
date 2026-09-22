@@ -2,7 +2,7 @@
 
 - 💬 I’m gfy1729, nice to meet you.
 - 🔭 I’m currently working on nothing.
-- 👀 I’m looking for collaborate on something.
+- 👀 I’m looking forward to collaborating on nothing.
 
 ![](https://skillicons.dev/icons?i=c,cpp,cmake,qt,md,latex,github,git)
 
